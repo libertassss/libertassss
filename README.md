@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm just an ordinary front-end developer from China！
 
 **About me**
 - ⚒️ Langs: Vue/React Stack & TypeScript & flutter
