@@ -7,6 +7,6 @@
 
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libertassss&layout=compact&theme=buefy&hide_border=true" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=libertasss&show_icons=true">
 </div>
 
